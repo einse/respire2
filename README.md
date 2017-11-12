@@ -1,5 +1,5 @@
 # respire2
-Daily notes app, powered by Firebase
+Daily-notes webapp, powered by Firebase
 
 ## Keys
 
