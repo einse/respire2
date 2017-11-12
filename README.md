@@ -1,4 +1,4 @@
-# respire
+# respire2
 Daily notes app, powered by Firebase
 
 ## Keys
